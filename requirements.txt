@@ -5,3 +5,9 @@ pydantic-settings
 openai
 anthropic
 langchain
+pypdf
+python-multipart
+langchain-community
+bs4
+arxiv
+pymupdf
